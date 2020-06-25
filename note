@@ -1,0 +1,18 @@
+https://medium.com/@afifafian_/berkenalan-dengan-socket-io-1b9db2d983f6
+
+1. pembukaan absen.
+2. go to article
+3. websocket
+4. socket
+5. go to doc.
+6. demo server
+7. demo client
+8. demo emit
+9. demo ..
+10. vuex
+
+
+
+socket.on( ) // listener in server
+io.emit // emit in server
+socket.broadcast.on // emit in server as broadcast
